@@ -1,4 +1,4 @@
 create a notepad for testing the file for VL001 
-Added the data
+Added the data VL004
 change the version to VLO003
-Added the line latest - 005
+Added the line latest - 00444444
