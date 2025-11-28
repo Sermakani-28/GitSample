@@ -1,3 +1,7 @@
 create a notepad for testing the file for VL003 
 chnaged
+<<<<<<< Updated upstream
 req4 updated - 5
+=======
+req4 updated - 4 
+>>>>>>> Stashed changes
