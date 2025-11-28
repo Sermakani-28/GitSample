@@ -2,4 +2,5 @@ create a notepad for testing the file for VL001
 Added the data VL004
 change the version to VLO003
 Added the line latest - 0044445344
-Req4 added - 1 
+Req4 added - 1
+Req - branch
