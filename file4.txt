@@ -1,3 +1,7 @@
 created for gitignore testing - V1
 Added new for ignore test
+<<<<<<< HEAD
 testing the Local repo conflict
+=======
+Testing the remote change 
+>>>>>>> d5200470a6e0b1ef323752ad8a088866bce360c2
